@@ -4,16 +4,6 @@
 Hello! My name is Ahmet and I'm an industrial engineer based in Turkey . Currently, I'm on a quest to become a skilled **data scientist**, with a passion for exploring the exciting worlds of machine learning and deep learning. As a lover of science and documentary, I'm always on the lookout for new books and documentaries to dive into. If you have any recommendations, feel free to drop me a line on [Twitter](https://twitter.com/dataopsengineer).
 
 
-
-<h3 align="left">Social Link</h3>
-<p align="left">
-<a href="https://twitter.com/dataopsengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dataopsengineer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/h-ahmet-yilmaz-b4145a221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-ahmet-yilmaz-b4145a221/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ahmettyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmettyilmazz" height="30" width="40" /></a>
-<a href="https://instagram.com/h.ahmett.yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.ahmett.yilmaz" height="30" width="40" /></a>
-<a href="https://medium.com/@dataopsengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dataopsengineer" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools</h3>
  <p align="left"> 
   
@@ -70,8 +60,13 @@ Hello! My name is Ahmet and I'm an industrial engineer based in Turkey . Current
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
       ![25%](https://progress-bar.dev/25?title=Known&width=500&color=brightgreen)
   
-
-
-<h3 align="right">Support Me</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dataopsengineer"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dataopsengineer" /></a></p><br><br>
-
+ 
+ <br><br>
+<p>
+ <h2 align="center">Contact and Support</h2>
+<a href="https://twitter.com/dataopsengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dataopsengineer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/h-ahmet-yilmaz-b4145a221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-ahmet-yilmaz-b4145a221/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/ahmettyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmettyilmazz" height="30" width="40" /></a>
+<a href="https://instagram.com/h.ahmett.yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.ahmett.yilmaz" height="40" width="40" /></a>
+<a href="https://medium.com/@dataopsengineer" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@dataopsengineer" height="40" width="40" /></a>
+<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dataopsengineer"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dataopsengineer" /></a></p>
