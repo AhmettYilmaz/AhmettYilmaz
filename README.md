@@ -1,6 +1,8 @@
 <h1 align="left">Welcome 🥳, I'm Ahmet</h1>
 <h3 align="left">Data Science and IE</h3>
 
+<img src="https://github.com/AhmettYilmaz/AhmettYilmaz/blob/3da9bb1255aaf582d549a99db47cbed77653c865/back.png" alt="dataclouds"/> </a> 
+
 Hello! My name is Ahmet and I'm an industrial engineer based in Turkey . Currently, I'm on a quest to become a skilled **data scientist**, with a passion for exploring the exciting worlds of machine learning and deep learning. As a lover of science and documentary, I'm always on the lookout for new books and documentaries to dive into. If you have any recommendations, feel free to drop me a line on [Twitter](https://twitter.com/dataopsengineer).
 
 ---
