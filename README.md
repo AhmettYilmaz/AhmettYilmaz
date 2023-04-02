@@ -3,10 +3,15 @@
 
 Hello! My name is Ahmet and I'm an industrial engineer based in Turkey . Currently, I'm on a quest to become a skilled **data scientist**, with a passion for exploring the exciting worlds of machine learning and deep learning. As a lover of science and documentary, I'm always on the lookout for new books and documentaries to dive into. If you have any recommendations, feel free to drop me a line on [Twitter](https://twitter.com/dataopsengineer).
 
+---
+
+### Some Statistic 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmettYilmaz&show_icons=true&theme=radical)
+
+--- 
 
 <h3 align="left">Languages and Tools</h3>
  <p align="left"> 
-  
   
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -50,26 +55,21 @@ Hello! My name is Ahmet and I'm an industrial engineer based in Turkey . Current
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     ![20%](https://progress-bar.dev/20?title=Completed&width=500&color=brightgreen)
 
-
   <!-- PHP -->
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     ![10%](https://progress-bar.dev/10?title=Known&width=500&color=brightgreen)
   
-  
   <!-- PyThorch -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
       ![25%](https://progress-bar.dev/25?title=Known&width=500&color=brightgreen)
-  
  
- <br><br>
+--- 
+ <br>
 <p>
- <h2 align="center">Contact and Support</h2>
+ <h3 align="center"> Contact and Support </h3>
 <a href="https://twitter.com/dataopsengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dataopsengineer" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/h-ahmet-yilmaz" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-ahmet-yilmaz/" height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/h-ahmet-yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-ahmet-yilmaz/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ahmettyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmettyilmazz" height="30" width="40" /></a>
 <a href="https://instagram.com/h.ahmett.yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.ahmett.yilmaz" height="40" width="40" /></a>
 <a href="https://medium.com/@dataopsengineer" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@dataopsengineer" height="40" width="40" /></a>
-
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dataopsengineer"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dataopsengineer" /></a></p>
+ <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dataopsengineer"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dataopsengineer" /></a></p>
